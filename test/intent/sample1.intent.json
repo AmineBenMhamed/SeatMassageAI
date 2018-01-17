@@ -1,0 +1,7 @@
+{
+  "utterance": "Seat Massage",
+  "intent_type": "SeatMassageIntent",
+  "intent": {
+    "ThankYouKeyword": "Seat Massage"
+  }
+}
